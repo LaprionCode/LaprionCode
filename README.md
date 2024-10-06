@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! Nama saya Jodi</h2>
+<h1 align="left">Hi 👋! </h1>
+<h4>• 😄 Nama saya Jodi</h4>
+<h4>• 🔭 Saya adalah mahasiswa Teknik Informatika semester 7 di Politeknik Caltex Riau</h4>
+<h2></h2>
 
 ###
 
