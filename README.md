@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/95t0oh"></iframe></div><p><a href="https://imgflip.com/gif/95t0oh">via Imgflip</a></p></div>
+<img align="right" height="150" src="https://i.pinimg.com/originals/3f/6d/28/3f6d2831d7bb7408df4dff1990566e25.gif"  />
 
 ###
 
